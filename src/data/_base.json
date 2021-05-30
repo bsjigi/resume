@@ -8,19 +8,15 @@
   "ga": "UA-000000000-0",
   "introText": ["For better", "Web experience."],
   "profile": {
-    "name": "Geunhyeok LEE",
-    "email": "dev.ghlee@gmail.com",
+    "name": "Byeongsoo Kim",
+    "email": "kbsjigi@gmail.com",
     "photo": "avatar.png",
-    "introduce": "Makes web better",
+    "introduce": "If you don't walk today, you have to run tomorrow",
     "social": [
       {
         "icon": "github",
-        "label": "leegeunhyeok",
-        "url": "https://github.com/leegeunhyeok"
-      },
-      {
-        "icon": "web",
-        "url": "https://geundung.dev"
+        "label": "bsjigi",
+        "url": "https://github.com/bsjigi"
       }
     ],
     "skill": [
@@ -33,6 +29,6 @@
         "color": "ts"
       }
     ],
-    "hobby": ["프로그래밍", "운동"]
+    "hobby": ["영화", "운동"]
   }
 }
